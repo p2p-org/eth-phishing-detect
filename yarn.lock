@@ -1584,9 +1584,7 @@ tap-summary@^4.0.0:
     tap-out "^2.0.0"
 
 tape@^5.6.3:
-  version "5.6.3"
-  resolved "https://registry.yarnpkg.com/tape/-/tape-5.6.3.tgz#0d3cc82f96b0906f73b0981df1a38a44fec7901d"
-  integrity sha512-cUDDGSbyoSIpdUAqbqLI/r7i/S4BHuCB9M5j7E/LrLs/x/i4zeAJ798aqo+FGo+kr9seBZwr8AkZW6rjceyAMQ==
+  version "5.10.2"
   dependencies:
     array.prototype.every "^1.1.4"
     call-bind "^1.0.2"
