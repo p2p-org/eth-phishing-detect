@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@master
+        uses: actions/checkout@61b9e3751b92087fd0b06925ba6dd6314e06f089 # master
       - uses: MetaMask/action-sync-branch@0c8afe60810de1c260ec288bc792b6f513bbcc23
         with:
           branch: master
